@@ -17,7 +17,9 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        Humano obj_h=new Humano(39,91,2,"diego");
+        
+     
      }
 
 
